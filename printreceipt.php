@@ -24,8 +24,7 @@ $matNum=$_SESSION['matNum'];
     </div>
     <div class="row">
       <div class="col-md-6">
-          <img src="img/receipt.JPEG" alt="Bursar Sign" style="max-width:200%; width:150px; margin-left: 100px; height:auto; border-radius:50%;">
-          
+          <img src="img/receipt.JPEG" alt="Bursar Sign" style="max-width:100%; width:150px; margin-left: 180px; height:auto; border-radius:50%;">
           <h3>Bursery Sign:.....................</h3>
       </div>
     </div>
